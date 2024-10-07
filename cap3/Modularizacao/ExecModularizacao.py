@@ -5,18 +5,18 @@ minhaLista = []
 print("Preenchendo")
 preencherInventario(minhaLista)
 
-print("Exibindo")
+print("\nExibindo")
 exibirInventario(minhaLista)
 
-print("Localizando")
+print("\nLocalizando")
 localizarPorNome(minhaLista)
 
-print("Depreciando")
+print("\nDepreciando")
 depreciarPorNome(minhaLista, int(10))
 
-print("Excluindo")
+print("\nExcluindo")
 print(excluirPorSerial(minhaLista))
 exibirInventario(minhaLista)
 
-print("Resumindo")
+print("\nResumindo")
 resumirValores(minhaLista)
