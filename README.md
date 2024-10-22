@@ -1,4 +1,4 @@
-# Introdução ao Phyton - FIAP ON
+# Introdução ao Python - FIAP ON
 
 ## Modulos do Curso:
 
