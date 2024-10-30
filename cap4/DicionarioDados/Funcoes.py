@@ -22,9 +22,9 @@ def excluir(dicionario):
         print("Usuário não encontrado")
 
 def pesquisar(dicionario):
-    nome = input("Nome: ")
-    if nome in dicionario:
-        print("Nome: ", dicionario[nome][1])
-        print("data_acesso: ", dicionario[nome][2])
+    lista = dicionario.get(input("Qual login deseja pesquisar: "))
+    if lista is not None:
+        print("Nome: ", lista[1])
+        print("data_acesso: ", lista[2])
     else:
         print("Usuário não encontrado")
