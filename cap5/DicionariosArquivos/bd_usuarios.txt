@@ -1,0 +1,4 @@
+chaves : ['Chaves do 8', '24/10/2024', 'MAQUINA_01']
+madruga : ['Madruga', '04/11/2024', 'MAQUINA_72']
+chiquinha : ['Chiquinha', '04/11/2024', 'MAQUINA_72']
+florinda : ['Dona Florinda', '23/10/2024', 'RAIOX_01']
