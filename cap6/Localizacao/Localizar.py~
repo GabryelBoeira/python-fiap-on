@@ -1,0 +1,11 @@
+from pygeocoder import Geocoder
+
+api_key = 'AIzaSyBzA9wqrurE1EB_cd7xmc4azE4czFxuo2o'
+
+endereco = "Av. Paulista, 1000, Sao Paulo, SP"
+print("Coordenadas: ", Geocoder(api_key).geocode(endereco).coordinates)
+
+
+
+#Coordenadas:  (-25.4613162, -49.194217)
+#Coordenadas:  (-25.4599726, -49.1968881)

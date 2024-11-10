@@ -1,4 +1,4 @@
-from cap3.Modularizacao.FuncaoModularizacao import *
+from Modularizacao.FuncaoModularizacao import *
 
 minhaLista = []
 
