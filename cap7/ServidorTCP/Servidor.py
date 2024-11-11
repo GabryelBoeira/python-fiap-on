@@ -15,7 +15,7 @@ while True:
     print("Conectado com: ", cliente)
     while True:
         msg_recebida = str(con.recv(1024))
-        print("Recebido: ", msg_recebida.decode("utf-8"))
+        print("Recebido: ", msg_recebida)
         msg_enviada = b'Ola cliente'
         con.send(msg_enviada)
         break
