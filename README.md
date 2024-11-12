@@ -10,3 +10,7 @@
 - Cap 6 - Bibliotecas Externas e Sistema Operacional    	   	   
 - Cap 7 - Protocolos de Comunicação e Python    	   	   
 - Cap 8 - Python x IoT
+
+[Certificado de conclusão do curso](https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/132552/9d291afc545852e3ef5c73ab103f4506/certificado.png)
+
+**_ Curso Concluido _**
