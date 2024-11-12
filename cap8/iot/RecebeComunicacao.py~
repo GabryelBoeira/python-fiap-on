@@ -22,11 +22,7 @@ if conexao != "":
         else:
             conexao.write(b'0')
 
+
+
+
     conexao.close()
-    print("conexao encerrada")
-else:
-    print("Porta nao encontrada/disponivel")
-
-
-
-
